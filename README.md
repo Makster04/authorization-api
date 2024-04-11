@@ -13,8 +13,7 @@ For development, you will only need Node installed in your environment. Please u
 ```
 
 ### Configure app
-
-### Any environment configuration steps.
+Any environment configuration steps.
 
 ## Start & watch
 ```bash
@@ -63,32 +62,31 @@ npm start
 ├── package.json
 └── README.md
 ```
-Languages & tools
-JavaScript
-Node
-Express
-Sqlite3
-Jest
-SuperTest
-Eslint
-Dotenv
-Jsonwebtoken
-Bcrypt
-Base-64
-PG
-Cors
-Nodemon
-Sequelize
-Sequilize-cli
-Change Log
-0.0.1 - 2024-04-10
-Collaborators
-Kawika Reveira
-Brock Britton
-Mak Trnka
-About
-No description, website, or topics provided.
+### Languages & tools
+* JavaScript
+* Node
+* Express
+* Sqlite3
+* Jest
+* SuperTest
+* Eslint
+* Dotenv
+* Jsonwebtoken
+* Bcrypt
+* Base-64
+* PG
+* Cors
+* Nodemon
+* Sequelize
+* Sequilize-cli
 
-Resources
-Readme
-License
+### Change Log
+0.0.1 - 2024-04-10
+
+### Collaborators
+* Kawika Reveira
+* Brock Britton
+* Isai Chaidaz
+
+### About
+No description, website, or topics provided.
