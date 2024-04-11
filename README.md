@@ -7,9 +7,9 @@ For development, you will only need Node installed in your environment. Please u
 
 ### Install
 ```bash
-`git clone git@github.com:Makster04/auth-api.git`
-`cd auth-api`
-`npm install`
+git clone git@github.com:Makster04/auth-api.git
+cd auth-api
+npm install
 ```
 
 ### Configure app
