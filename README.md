@@ -1,4 +1,4 @@
-# authorization-api
+# Authorization-API
 
 ## Getting Started
 
