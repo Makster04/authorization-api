@@ -7,9 +7,9 @@ For development, you will only need Node installed in your environment. Please u
 
 ### Install
 ```bash
-* `git clone git@github.com:Makster04/auth-api.git`
-* `cd auth-api`
-* `npm install`
+`git clone git@github.com:Makster04/auth-api.git`
+`cd auth-api`
+`npm install`
 ```
 
 ### Configure app
@@ -17,13 +17,13 @@ For development, you will only need Node installed in your environment. Please u
 ### Any environment configuration steps.
 
 ## Start & watch
-bash
-Copy code
+```bash
 npm run dev
 npm start
-Architecture
-scss
-Copy code
+```
+
+### Architecture
+```bash
 ├── .github
 │   ├── workflows
 │   │   └── node.yml
@@ -62,6 +62,7 @@ Copy code
 ├── index.js
 ├── package.json
 └── README.md
+```
 Languages & tools
 JavaScript
 Node
